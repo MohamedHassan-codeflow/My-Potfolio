@@ -6,7 +6,7 @@ export const profile = {
   email: 'mohamedhassan.codeflow@gmail.com',
   github: 'https://github.com/MohamedHassan-codeflow',
   linkedin: 'https://www.linkedin.com/in/mohamed-hassan-733b36406/',
-  portfolio: 'https://github.com/MohamedHassan-codeflow',
+  portfolio: 'https://mohamedhassan-codeflow-portfolio.vercel.app/',
   cv: '/Mohamed_Hassan_CV.pdf',
   summary:
     'Electrical and Communication Engineer with 12+ years of telecom experience across Ericsson, 5G, RAN, TRM, network operations, and technical support. Skilled in Python, JavaScript, VBA, React.js, Power BI, and automation tools, with proven ability to reduce manual effort, improve reporting accuracy, and build responsive web applications.'
